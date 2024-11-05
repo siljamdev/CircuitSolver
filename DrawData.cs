@@ -1,5 +1,3 @@
-#define debug
-
 using System;
 
 abstract class DrawElement{
